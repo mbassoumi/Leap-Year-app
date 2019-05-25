@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
     },
 
     yearInput: {
-        height: 50,
+        // height: 50,
         fontSize: 20,
         margin: 15,
         padding: 15,
